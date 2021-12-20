@@ -1,0 +1,10 @@
+3 Categories of HTML elements or tags
+1. inline,
+2. inline-block
+3. block
+
+css styles for html elements
+There are 3 ways to apply css styles
+1. inline 
+2. internal and
+3. external
